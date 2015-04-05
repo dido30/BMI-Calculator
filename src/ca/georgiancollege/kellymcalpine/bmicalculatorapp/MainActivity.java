@@ -2,7 +2,7 @@
  * PROGRAM NAME:  COMP1011-Assignment05
  * PROGRAM DESCRIPTION:  Android Application - BMI Calculator 
  * @author Kelly McAlpine 200260425
- * @version 0.1 - Creation of Project  				
+ * @version 0.2 - Creation of UI 				
  * Date last modified:  2015-04-04
  */
 
