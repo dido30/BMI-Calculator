@@ -15,6 +15,13 @@
         android:layout_height="wrap_content" >
 
         <TextView
+            android:id="@+id/unitSwitchStatusTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/unitSwitchStatusTextView"
+            android:visibility="gone" />
+
+        <TextView
             android:id="@+id/imperialTextView"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -29,8 +36,11 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
+            android:checked="true"
             android:contentDescription="@string/unit"
+            android:focusableInTouchMode="true"
             android:gravity="center"
+            android:linksClickable="false"
             android:text="@string/unit" />
 
         <TextView

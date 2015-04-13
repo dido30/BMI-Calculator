@@ -17,5 +17,7 @@
     <string name="result">Results:</string>
     <string name="reset">Reset</string>
     <string name="unit">Unit</string>
+    <string name="unitSwitchStatusTextView">Switch Status</string>
+    <string name="unitSwitchHint">Turn the switch on to convert measurements to Metric</string>
 
 </resources>
